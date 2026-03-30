@@ -28,4 +28,61 @@ Contact:
 --------
 - Email: sql.e4dev@gmail.com
 - GitHub: https://github.com/sql-e4
-  
+
+
+------------------------------------------------------------------------------------------------
+
+
+*****  IT CERTIFICATIONS  *****
+
+
+Mar 2026 - SQL Course Certificate (Boot.Dev)
+(Tables, CRUD, Constraints, Queries, Structuring, Aggregations, Joins)
+https://www.boot.dev/certificates/b36a5276-f4db-422b-9ac3-3e87365d4375
+
+
+------------------------------------------------------------------------------------------------
+
+Mar 2026 - SQL Course Certificates (DataCamp)
+(SQL Foundations, Filtering & Sorting Data, Aggregations & Grouping, Joining Multiple Tables,
+ Subqueries & Complex Queries, Data Manipulation & Advanced SQL Concepts and Database Design Basics)
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/318ed5119e67ba45d5f6eb314b759fefdeb5d08f
+(Intermediate SQL)
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/9a718cf78de2f1b3bf371b607c9b050be93de707
+(Joining Data in SQL)
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/1900c81b420f1c1a80be0e8b195251055ea44e2f
+(Introductin to SQL)
+
+
+------------------------------------------------------------------------------------------------
+
+Mar 2026 - Google Data Analytics Course Certificate (Coursera)
+(Cleaning/Analyzing Data, Excel, Python, Tableau/Looker, R Programming, AI)
+https://coursera.org/share/f81f827fdc907c0521d4e4b2a651e08f
+
+
+------------------------------------------------------------------------------------------------
+
+Mar 2026 - IBM SQL - A Practical Introduction to Querying Databases Certificate (Coursera)
+(SQL Basics, Joins & Multiple Tables, Subqueries, Advanced SQL Queries and Database Concepts)
+https://coursera.org/share/f8f05580d197dd21326ccc94ee10fa17
+
+
+------------------------------------------------------------------------------------------------
+
+Feb 2026 - Front-End Web Development Course Certificate (UDEMY)
+(JavaScript, CSS, HTML5, jQuery, BootStrap & React)
+https://www.udemy.com/certificate/UC-c025c8a9-09cf-47fd-83ab-ad9ab582ae60/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
+
+
+------------------------------------------------------------------------------------------------
+
+PENDING - Data Analyst (Power BI) Course Certificate (DataCamp)   ---   CURRENTLY STUDYING THIS COURSE!
+
+(Cleaning Data, Reports, Slicers & Tables, Field Aggregation, Power Query Editor, Filtering, Transforming Data, Visualizing Data,
+ Formatting Currency, Transforming/Formatting Columns, Making Maps w/Geographic Data)
+
+
