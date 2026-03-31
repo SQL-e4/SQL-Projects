@@ -80,6 +80,18 @@ https://www.udemy.com/certificate/UC-c025c8a9-09cf-47fd-83ab-ad9ab582ae60/?utm_c
 
 ------------------------------------------------------------------------------------------------
 
+
+Jun 2024 - Google - Connect and Protect: Networks and Network Security
+https://coursera.org/share/f1054bc2793536c632b5480adebbd065
+
+
+Mar 2024 - Google - Play it Safe: Manage Security Risks
+https://coursera.org/share/adf5632237d801f2a46ea49e5c87483a
+
+
+
+------------------------------------------------------------------------------------------------
+
 PENDING - Data Analyst (Power BI) Course Certificate (DataCamp)   ---   CURRENTLY STUDYING THIS COURSE!
 
 (Cleaning Data, Reports, Slicers & Tables, Field Aggregation, Power Query Editor, Filtering, Transforming Data, Visualizing Data,
