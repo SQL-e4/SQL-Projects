@@ -19,7 +19,7 @@ Skills I am currently developing:
 
 Notes:
 ------
-- All scripts are written in standard SQL compatible with SQLite, PostgreSQL, and MySQL.
+- All code scripts are written in standard SQL compatible with DataCAmp, SQLite, PostgreSQL, and MySQL.
 - Comments are included within the SQL scripts to explain the logic.
 - This repository is intended to showcase my SQL skills to potential employers.
 
