@@ -36,6 +36,13 @@ Contact:
 *****  IT CERTIFICATIONS  *****
 
 
+Apr 2026 - Google - IT Support Certification (Coursera)
+https://coursera.org/share/2bf6d1d913e02fcb03896e85259529d0
+
+
+------------------------------------------------------------------------------------------------
+
+
 Mar 2026 - SQL Course Certificate (Boot.Dev)
 (Tables, CRUD, Constraints, Queries, Structuring, Aggregations, Joins)
 https://www.boot.dev/certificates/b36a5276-f4db-422b-9ac3-3e87365d4375
