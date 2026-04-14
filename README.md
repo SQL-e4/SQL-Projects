@@ -108,12 +108,3 @@ Mar 2024 - Google - Play it Safe: Manage Security Risks
 https://coursera.org/share/adf5632237d801f2a46ea49e5c87483a
 
 
-
-------------------------------------------------------------------------------------------------
-
-PENDING - Data Analyst (Power BI) Course Certificate (DataCamp)   ---   CURRENTLY STUDYING THIS COURSE!
-
-(Cleaning Data, Reports, Slicers & Tables, Field Aggregation, Power Query Editor, Filtering, Transforming Data, Visualizing Data,
- Formatting Currency, Transforming/Formatting Columns, Making Maps w/Geographic Data)
-
-
